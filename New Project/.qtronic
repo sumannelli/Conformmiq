@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.conformiq:ConformiqProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.conformiq="http://www.conformiq.com/models/2/project" name="New Project" propertiesVersion="1001">
+  <designConfigurations name="DC" id="2b0e8a0bfadc76a28baa996ad83ff51e">
+    <scripterConfigurations jarPath="D:/suman/Eclipse/FreddieMacCucumberSeJaScripter/TrizettoCucumberSeJaScripter.jar" pluginName="TrizettoCucumberSeJaScripter" enabled="true">
+      <scripterPropertyCategories name="Main">
+        <categoryProperties key="Output Folder" value="CucumberSeleniumJava"/>
+        <categoryProperties key="GUI action automation mapping" value="GUI action automation mapping.xls"/>
+        <categoryProperties key="Natural language automation mapping" value="Natural language automation mapping.xls"/>
+        <categoryProperties key="Disable export of widget status verification" value="true"/>
+        <categoryProperties key="Disable initial check in components for GUI object existence" value="true"/>
+        <categoryProperties key="Disable export of don't care data widget and field verifications" value="true"/>
+        <categoryProperties key="Optimize keywords" value="true"/>
+        <categoryProperties key="Disable export of don't care inputs" value="false"/>
+        <categoryProperties key="Ignore Default locator" value="true"/>
+        <categoryProperties key="Merge scenarios into single feature file" value="true"/>
+        <categoryProperties key="Testdata Externalisation in feature files" value="false"/>
+        <categoryProperties key="Ignore Comments in feature files" value="true"/>
+        <categoryProperties key="Render Custom action description as feature steps" value="true"/>
+        <categoryProperties key="Row-wise data arrangement" value="false"/>
+      </scripterPropertyCategories>
+      <scripterPropertyCategories name="Impact Analysis">
+        <categoryProperties key="Sprint" value="Sprint1"/>
+      </scripterPropertyCategories>
+      <scripterPropertyCategories name="Automation Configuration">
+        <categoryProperties key="Selenium" value="true"/>
+      </scripterPropertyCategories>
+    </scripterConfigurations>
+  </designConfigurations>
+  <projectProperties key="CreatorDataDistribution" value="false"/>
+  <projectProperties key="IntelligentTestCaseNaming" value="true"/>
+  <projectProperties key="LookAheadDepth" value="0"/>
+  <projectProperties key="MainActivityDiagram" value="model/Activity Diagram.ad"/>
+  <projectProperties key="OnlyFinalizedRuns" value="false"/>
+  <projectProperties key="TestCaseIndexOffset" value="0"/>
+  <projectProperties key="TestCaseNamePrefix" value="Test Case "/>
+  <projectProperties key="TestCaseOrdering" value="CHRONOLOGICAL_SHORTEST_TEST_FIRST"/>
+  <projectProperties key="TestGenTimeLimit" value="10"/>
+  <projectProperties key="TestGenerationStopCondition" value="REPEATABLE_TEST_SET"/>
+  <projectProperties key="TestSelection" value="FEWEST_TESTS"/>
+</com.conformiq:ConformiqProject>
